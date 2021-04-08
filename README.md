@@ -11,4 +11,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ![Image of Home](https://raw.githubusercontent.com/singara-velan/Nextjs-Multilanguage/master/public/one.PNG)
 
+![Image of Home](https://raw.githubusercontent.com/singara-velan/Nextjs-Multilanguage/master/public/two.PNG)
+
 
