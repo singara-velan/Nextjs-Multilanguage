@@ -1,6 +1,6 @@
 ## Getting Started
 
-To learn more checkout out the article [here](https://dev.to/singaravelan/next-js-multilanguage-support-with-internationalized-routing-486e)
+[To learn more checkout out the article here](https://dev.to/singaravelan/next-js-multilanguage-support-with-internationalized-routing-486e)
 
 To, run in your local machine:
 
